@@ -1982,5 +1982,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "115_Avatar_Video_subtitled.mp4",
+        "metadata": {
+            "title": "Why Being Single Is Actually Your Superpower",
+            "description": "Healing isn't linear. Some days you're fine, other days a song hits different and you're back to square one. But here's the thing \u2014 if you're feeling it, you're healing. The fact that it still hurts means it mattered. Be patient with yourself. Give yourself the grace you'd give a friend going through the same thing. Drop a \ud83e\udd8b if you're on your healing journey too.",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
